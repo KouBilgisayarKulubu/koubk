@@ -1,2 +1,1 @@
-# koubk.github.io
-KouBK blog
+# This is the repo for Kocaeli Universitesi blog site
